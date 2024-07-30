@@ -34,9 +34,11 @@ A feature-rich food ordering application built using React.js for the frontend a
 
 ## Screen Shot 
 ### Menu section
-![image](https://github.com/user-attachments/assets/b9cb5959-fa09-4424-824d-2cc0139059d5)
+![image](https://github.com/user-attachments/assets/3750f12f-fae2-4712-b18f-69372d7021e7)
+
 ### Cart section
-![image](https://github.com/user-attachments/assets/d013c63a-9cc1-43fc-9b6b-01c8dd69b72c)
+![image](https://github.com/user-attachments/assets/53871711-c9dd-4330-8c3f-453b35583923)
+
 ### Details of user [ form handling ]
 ![image](https://github.com/user-attachments/assets/fa4607f3-f188-4fe4-8f69-c02430dbdd5a)
 
